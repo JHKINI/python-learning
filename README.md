@@ -1,2 +1,26 @@
-# python-learning
-한국폴리텍 AI Software High-Tech 과정에서 학습한 Python 기초, 자료구조, 알고리즘 및 응용 실습 코드 정리
+# 자료구조
+
+## 학습 목적
+
+Python으로 자료구조의 동작 원리를 직접 구현한다.
+
+## List
+
+### 학습 내용
+- ADT 개념
+- 배열 기반 리스트
+- 삽입 / 삭제 / 탐색
+
+### 직접 구현
+- insert()
+- delete()
+- search()
+- replace()
+- append()
+
+### 배운 점
+Python의 기본 list를 사용하는 것과
+자료구조를 직접 구현하는 것은 다르다는 점을 이해했다.
+
+### 관련 코드
+- listADT.py
